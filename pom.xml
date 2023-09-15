@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Task</name>
 	<description>Demo project for Spring Boot</description>
+	<description>hi satya for feature branch the changes are made in pom.xml</description>
 	<properties>
 		<java.version>1.7</java.version>
 	</properties>
